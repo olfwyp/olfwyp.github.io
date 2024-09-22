@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olfwyp.github.io/sitemap.html.gz
+Sitemap: https://olfwyp.github.io/app/sitemap.html.gz
+Sitemap: https://olfwyp.github.io/assets/sitemap.html.gz
+Sitemap: https://olfwyp.github.io/css/sitemap.html.gz
+Sitemap: https://olfwyp.github.io/data/sitemap.html.gz
+Sitemap: https://olfwyp.github.io/includes/sitemap.html.gz
+Sitemap: https://olfwyp.github.io/item/sitemap.html.gz
+Sitemap: https://olfwyp.github.io/src/sitemap.html.gz
